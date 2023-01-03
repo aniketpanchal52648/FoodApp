@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aniketpanchal52648/FoodApp/static/css/main.e45284f4.css",
+    "main.js": "/aniketpanchal52648/FoodApp/static/js/main.e8c3f2e8.js",
+    "static/media/meals.jpg": "/aniketpanchal52648/FoodApp/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/aniketpanchal52648/FoodApp/index.html",
+    "main.e45284f4.css.map": "/aniketpanchal52648/FoodApp/static/css/main.e45284f4.css.map",
+    "main.e8c3f2e8.js.map": "/aniketpanchal52648/FoodApp/static/js/main.e8c3f2e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45284f4.css",
+    "static/js/main.e8c3f2e8.js"
+  ]
+}
